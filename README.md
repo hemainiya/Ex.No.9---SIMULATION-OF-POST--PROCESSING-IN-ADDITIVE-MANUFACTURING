@@ -46,9 +46,12 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![ex 6 2 1](https://github.com/user-attachments/assets/939ab922-0dad-49d6-9186-5d13a784ca84)
+![ex 6 2 2](https://github.com/user-attachments/assets/9dcf2429-2e05-4513-9f9d-ae7d0c2a519e)
+![ex 6 2 3](https://github.com/user-attachments/assets/65402442-8421-4247-9906-750b2c51cdc6)
 
-### Name:
-### Register Number:
+### Name:HEMA SREE.S
+### Register Number:212224040112
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
